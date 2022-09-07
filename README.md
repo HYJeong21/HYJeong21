@@ -2,7 +2,7 @@
 
 
 
-I'm NEWBIE from Gachon Univ!\
+I'm NEWBIE from Gachon Univ!
 
 I’m currently learning Software & Programing.
 
