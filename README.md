@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-I'm NEWBIE from Gachon Univ!\n
+I'm NEWBIE from Gachon Univ!\
+
 I’m currently learning Software & Programing.
 
 <!--
