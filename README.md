@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+I'm NEWBIE from Gachon Univ!
+I’m currently learning Software & Programing.
+
 <!--
 **HYJeong21/HYJeong21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
